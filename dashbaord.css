@@ -7,7 +7,7 @@
 
 .side-bar{
     background-color: #53c351;
-    width: 13%;
+    width: 14%;
     height: 130vh;
     justify-items: center;
     color: white;
@@ -63,7 +63,7 @@
     overflow: hidden;
     background-color: white;
     color: #53c351;
-    width: 500px;
+    width: 530px;
     border-radius: 5px;
     padding: 5px;
     gap: 24px;
