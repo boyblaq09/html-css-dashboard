@@ -1,0 +1,100 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.side-bar{
+    background-color: #53c351;
+    width: 13%;
+    height: 130vh;
+    justify-items: center;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 15px;
+    border-left: 8px ;
+}
+
+.nav-item{
+    display: flex;
+    padding: 20px;
+    gap: 24px;
+}
+
+.nav-links{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    margin: 15px;
+    font-weight: bold;
+}
+.nav-links .nav-item:hover{
+    opacity: 0.7;
+    cursor: pointer;
+}
+
+.nav-item img{
+    height: 20px 20px 20px;
+    width: 25px;
+    gap: 20px;
+}
+
+.nav-item p{
+    width: 5px;
+}
+
+.side-bar img{
+    align-self: center;
+    justify-items: center;
+    justify-content: center;
+}
+
+.logo{
+    display: flex;
+    gap: 5px;
+    padding: 15px;
+}
+
+.dash{
+    display: flex;
+    overflow: hidden;
+    background-color: white;
+    color: #53c351;
+    width: 520px;
+    border-radius: 5px;
+    padding: 5px;
+    gap: 24px;
+}
+.contact-now{
+    display: flex;
+    overflow: hidden;
+    width: 320px;
+    border-radius: 3px;
+    padding: 5px;
+    gap: 20px;
+    background-color: white;
+    color: #53c351;
+    font-weight: bold;
+    margin-left: 10px;
+}
+
+.contact-now p{
+    text-rendering: center;
+}
+
+p.c-sup{
+    font-weight: bold;
+    margin: 10px 0 5px 0;
+}
+
+.support-section{
+    margin-left: 30px;
+}
+
+/* main content  */
+main.main-content{
+   
+} 
