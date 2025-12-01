@@ -7,8 +7,8 @@
 
 .side-bar{
     background-color: #53c351;
-    width: 15%;
-    height: 170vh;
+    width: 13%;
+    height: 200vh;
     justify-items: center;
     color: white;
     display: flex;
@@ -63,7 +63,7 @@
     overflow: hidden;
     background-color: white;
     color: #53c351;
-    width: 320px;
+    width: 420px;
     border-radius: 5px;
     padding: 5px;
     gap: 24px;
