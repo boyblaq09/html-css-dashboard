@@ -8,7 +8,7 @@
 .side-bar{
     background-color: #53c351;
     width: 13%;
-    height: 130vh;
+    height: 150vh;
     justify-items: center;
     color: white;
     display: flex;
@@ -20,7 +20,7 @@
 
 .nav-item{
     display: flex;
-    padding: 20px;
+    padding: 15px;
     gap: 24px;
 }
 
@@ -63,7 +63,7 @@
     overflow: hidden;
     background-color: white;
     color: #53c351;
-    width: 520px;
+    width: 420px;
     border-radius: 5px;
     padding: 5px;
     gap: 24px;
@@ -93,8 +93,3 @@ p.c-sup{
 .support-section{
     margin-left: 30px;
 }
-
-/* main content  */
-main.main-content{
-   
-} 
